@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">trabalho</string>
+    <string name="adicionar_ve_culo">Adicionar Veículo</string>
+    <string name="nome">Nome</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome_do_ve_culo">Nome do Veículo:</string>
+    <string name="Litros">  Litros</string>
+    <string name="qnt_litros">Quantidade em Litros</string>
+    <string name="adc_abs">Adicionar</string>
+    <string name="cor">Cor:</string>
+    <string name="placa">Placa</string>
+    <string name="placaNome">Placa:</string>
+    <string name="corCP">Cor</string>
+    <string name="salvar">Salvar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="abastecimento">Abastecimento:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="remover">Remover</string>
+    <string name="Deletar">Button</string>
+    <string name="excluir">excluir</string>
+    <string name="info">Edit Info</string>
+    <string name="name">Name</string>
+    <string name="excluir_ve_culo">Excluir Veículo</string>
+</resources>
